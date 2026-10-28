@@ -77,6 +77,7 @@ const CHAT_COMPLETIONS_PRESET_IDS = new Set([
   "pipellm",
   "therouter",
   "openrouter",
+  "runcrate",
   OPENCODE_GO_API_PROVIDER_ID,
 ]);
 
